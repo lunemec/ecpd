@@ -1,0 +1,8 @@
+[package]
+name = "ecpd"
+version = "0.1.0"
+authors = ["Nemec Lukas <lukas.nemec2@firma.seznam.cz>"]
+
+[dependencies]
+nanomsg="*"
+rustc-serialize = "0.3"
